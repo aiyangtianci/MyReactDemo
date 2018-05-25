@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_fe656c3ae9bb7d8555dde6568adb027e013c0396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e879aad406908980b9be3598cb9c5de582e0c559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="610b957661a666d16b2cd4664c6bf4370226dfd2">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.5_0245df6a34d966a05933484367f411bfadb37ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_bbf9880fdec27e2ec28df41d07d643e58692fc0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_85ebeae2dc27aaf5aeb36a6b5a73e4b3d601bd8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_d6e70d1faa780749fcb44fe743eeb081b9cfb7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_14ccddbc700d487bc9942704f9865b49987b54d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_84be3fd526b5689ac3831fe8d228c21863f3686e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_83a4df7d965a425528ade58afb03d85a1f7f78df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0e64043a46ea4fd6c78c95b194c31aa695b34274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4f38518434ee17e5c8e779de5fe8b96a2da4b428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_663ca880f268d3b3149195f35fe45fc496ededd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.5/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_b585cc093d124d98120fd97b6ae9b5bb7b238dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_d0fce4bf329e32b4cbc6ae140828d8281f66f1c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_767ab59585945acefce54c636171b0bb1f750580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_dca56d797b068b343981cb814a989c2c504c8c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_cfa9defe12f7c93095bf19cd5c91ca27f9b1426c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0b0205c7a5cd03627c329676fa9818548f69f760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_ba16424f05c34969f98f33c8d0698f604615b4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b55bd23a6b76b3b63919511cd57952d9572e2a7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/djmsh/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_b87a89de597fac985a1e5b2c0e9acdc62e881791.jar" />
+    </item>
+
+</items>

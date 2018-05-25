@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyReactDemo</string>
+
+    <string name="change_theme">切换主题</string>
+</resources>

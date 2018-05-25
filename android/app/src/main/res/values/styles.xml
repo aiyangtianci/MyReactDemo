@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/AppThemeColor</item>
+        <item name="colorPrimaryDark">@color/AppThemeColor</item>
+        <item name="colorAccent">@color/AppThemeColor</item>
+        <item name="android:colorBackground">@color/colorGray</item>
+        <item name="android:textColor">@color/AppThemeColor</item>
+    </style>
+    
+    <style name="APPThemeNight" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorGray</item>
+        <item name="colorPrimaryDark">@color/colorGray</item>
+        <item name="colorAccent">@color/colorGray</item>
+        <item name="android:textColor">@color/colorGray</item>
+        <item name="android:background">#f5f5f5</item>
+    </style>
+</resources>
