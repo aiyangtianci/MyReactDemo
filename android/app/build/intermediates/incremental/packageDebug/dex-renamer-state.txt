@@ -1,4 +1,4 @@
-#Mon Oct 30 20:31:45 CST 2017
-base.0=/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Fri May 25 15:11:44 CST 2018
+base.0=/Users/djmsh/Desktop/WebstormProjects/MyReactDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/djmsh/Desktop/WebstormProjects/MyReactDemo/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

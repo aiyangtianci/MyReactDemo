@@ -2,5 +2,9 @@
     {
         "merged": "/Users/djmsh/WebstormProjects/MyReactDemo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
         "source": "/Users/djmsh/WebstormProjects/MyReactDemo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/djmsh/Desktop/WebstormProjects/MyReactDemo/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/djmsh/Desktop/WebstormProjects/MyReactDemo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }
 ]
